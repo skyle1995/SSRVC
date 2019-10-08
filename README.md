@@ -2,3 +2,5 @@
 Android版：https://github.com/HMBSbige/ShadowsocksR-Android<br><br>
 Windows版：https://github.com/HMBSbige/ShadowsocksR-Windows<br><br>
 Windows版 - Netch（集合版）：https://github.com/NetchX/Netch<br><br>
+Mac版（不知道能不能用）：https://github.com/ShadowsocksR-Live/ssrMac<br><br>
+
