@@ -1,10 +1,10 @@
 <h2>这个项目并没有任何代码内容，只是用来收集各个SSR版本</h2>
 
-<br>HMBSbige更新版本：<br>
+<br>HMBSbige：<br>
 Android版：https://github.com/HMBSbige/ShadowsocksR-Android<br>
 Windows版：https://github.com/HMBSbige/ShadowsocksR-Windows<br>
 
-<br>shadowsocksr-backup版：<br>
+<br>shadowsocksr-backup：<br>
 Windows版：https://github.com/shadowsocksr-backup/shadowsocksr-csharp<br>
 
 <br>其他版本：<br>
